@@ -1,0 +1,4 @@
+﻿,ItemName,Icon,SellGold,BuyGold,Attack,Defence
+1001,단검,/Script/Engine.Texture2D'/Game/PinRPG_IconSet_01_Assets/Sword/T_Sword_6.T_Sword_6',100,150,10,0
+1002,장검,/Script/Engine.Texture2D'/Game/PinRPG_IconSet_01_Assets/Sword/T_Sword_24.T_Sword_24',200,250,25,0
+1003,지팡이,/Script/Engine.Texture2D'/Game/PinRPG_IconSet_01_Assets/Ring/T_Ring_21.T_Ring_21',300,350,10,0
