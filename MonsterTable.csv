@@ -1,0 +1,2 @@
+---,MonsterName,MaxHP,Attack,Defense,DropItemData,DropExp
+NewRow,"Golem","10.000000","1.000000","5.000000","((Rate=0.500000,ItemID=1001,Countable=False,MinAmount=1,MaxAmount=1),(Rate=0.300000,ItemID=2001,Countable=False,MinAmount=1,MaxAmount=1))","(100,100,100,100,100)"
